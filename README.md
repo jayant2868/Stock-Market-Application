@@ -1,2 +1,0 @@
-# Stock-Market-Charting-Application
- A full stack project made using Spring Boot in Backend and Angular in Frontend along with MySQL DB to allow the user to CRUD companies, sectors, stock prices, IPO's and stock exchanges. Used HighCharts to give user the option to graphically compare multiple stock prices at once. Made use of Micro service Architecture along with patterns like Eureka Discovery server, Config Server and API Gateway to make application quick and robust.
